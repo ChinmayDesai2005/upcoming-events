@@ -3,15 +3,5 @@
         "name": "Introduction to Python Programming",
         "image_link": "https://i.imgur.com/XNCfOhh.jpeg",
         "google_form_link": "https://forms.gle/ptM1PkUSa1LpZ2E16"
-    },
-    {
-        "name": "Web Development with HTML, CSS, and JavaScript",
-        "image_link": "https://i.imgur.com/XNCfOhh.jpeg",
-        "google_form_link": "https://forms.gle/placeholder2"
-    },
-    {
-        "name": "Data Science and Machine Learning TEST",
-        "image_link": "https://i.imgur.com/XNCfOhh.jpeg",
-        "google_form_link": "https://forms.gle/placeholder3"
     }
 ]
